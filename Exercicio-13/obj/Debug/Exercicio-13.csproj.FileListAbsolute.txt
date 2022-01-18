@@ -1,0 +1,7 @@
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-13\bin\Debug\Exercicio-13.exe.config
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-13\bin\Debug\Exercicio-13.exe
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-13\bin\Debug\Exercicio-13.pdb
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-13\obj\Debug\Exercicio-13.csproj.AssemblyReference.cache
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-13\obj\Debug\Exercicio-13.csproj.CoreCompileInputs.cache
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-13\obj\Debug\Exercicio-13.exe
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-13\obj\Debug\Exercicio-13.pdb

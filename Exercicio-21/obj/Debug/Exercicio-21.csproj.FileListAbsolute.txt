@@ -1,0 +1,7 @@
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-21\bin\Debug\Exercicio-21.exe.config
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-21\bin\Debug\Exercicio-21.exe
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-21\bin\Debug\Exercicio-21.pdb
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-21\obj\Debug\Exercicio-21.csproj.AssemblyReference.cache
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-21\obj\Debug\Exercicio-21.csproj.CoreCompileInputs.cache
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-21\obj\Debug\Exercicio-21.exe
+C:\Users\cmatos\Desktop\Exercicios-Csharp\Exercicios-CSharp\Exercicio-21\obj\Debug\Exercicio-21.pdb
